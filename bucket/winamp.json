@@ -4,10 +4,13 @@
     "version": "5.8.3660-beta1",
     "architecture": {
         "64bit": {
-            "url": "https://download.nullsoft.com/winamp/client/winamp58_3660_beta_full_en-us.exe"
+            "url": "https://download.nullsoft.com/winamp/client/winamp58_3660_beta_full_en-us.exe",
+            "hash": "115ad6a4be58320c98f992b1dae26e162976158c3cced251584a2b78f059b822"
         },
         "32bit": {
-            "url": "https://download.nullsoft.com/winamp/client/winamp58_3660_beta_full_en-us.exe"
+            "url": "https://download.nullsoft.com/winamp/client/winamp58_3660_beta_full_en-us.exe",
+            "hash": "115ad6a4be58320c98f992b1dae26e162976158c3cced251584a2b78f059b822"
+            
         }
     },
     "bin": "winamp.exe",
