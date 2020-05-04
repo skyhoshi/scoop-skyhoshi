@@ -2,8 +2,13 @@
     "homepage": "https://www.winamp.org/",
     "description": "it still wips the llama's ass: ",
     "version": "5.8.3660-beta1",
-    "installer": {
-        "file": "https://download.nullsoft.com/winamp/client/winamp58_3660_beta_full_en-us.exe"
+    "architecture": {
+        "64bit": {
+            "url": "https://download.nullsoft.com/winamp/client/winamp58_3660_beta_full_en-us.exe"
+        },
+        "32bit": {
+            "url": "https://download.nullsoft.com/winamp/client/winamp58_3660_beta_full_en-us.exe"
+        }
     },
     "bin": "winamp.exe",
     "shortcuts": [
